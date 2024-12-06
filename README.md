@@ -71,11 +71,11 @@
         <a href="https://instagram.com/allan_brunner_" target="_blank">
           <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
         </a>
-        <a href="https://codepen.com/Allan Brunner" target="_blank">
-          <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-        </a>
-        <a href="https://www.kaggle.com/Allan Brunner" target="_blank">
+        <a href="https://www.kaggle.com/AllanBrunner" target="_blank">
           <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+        </a>
+        <a href="https://codepen.io/zcBruAll" target="_blank">
+          <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
         </a>
       </div>
     </td>
