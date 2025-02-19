@@ -4,25 +4,25 @@
 You can find most of my projects under my profile and the QuantixWorld organization.
 
 ### BomberGrid
-During one of my BSc course, we needed to make, in groups of 2, a grid based game using a given library in Scala.  
-I decided with my colleague to go with a Bomberman like game. We aimed further by making it playable in LAN and by implementing a small algorithm to simulate light obstruction.  
+During one of my BSc courses, my colleague and I were required to create a grid-based game using a provided Scala library.  
+My colleague and I decided to create a Bomberman-like game. We further enhanced it by making it playable over LAN and by implementing a small algorithm to simulate light obstruction.  
 *[Repository](https://github.com/zcBruAll/BomberGrid)*
 
 ### QuantixTune
-This project working with Spotify API aims to provide Spotify's functions and some more useful tool like playlist comparer/syncronizer, etc.  
-I wanted to make this project becvause I wanted to syncronize some of my playlists, check duplicates in them, etc. so I made it.  
-I chose NodeJS for the backend and VueJS for the frontend, because I needed to improve my skill in web development and I wanted a cool and complete framework working with either JS or TS for the app so I went with Vue.
+This project, which works with the Spotify API, aims to provide Spotify’s features along with additional tools such as a playlist comparer/synchronizer.  
+I created this project because I wanted to synchronize my playlists and check for duplicates.  
+I chose NodeJS for the backend and VueJS for the frontend because I wanted to improve my web development skills and work with a robust framework compatible with both JavaScript and TypeScript.  
 *[Repository](https://github.com/QuantixWorld/QuantixTune)*
 
 ### QuantixScript
-I wanted to have a better understanding on how the programming languages worked and I thought that the best way was to create one.  
-The first compiler is made in Rust but the real goal is to be able to make it in QuantixScript. For now, I aim to make of QuantixScript an oriented object programming language.  
-It's a really fun challenge since it requires me to learn Rust, Assembly and understand and reproduce how programming languages works.  
+I wanted to better understand how programming languages work, so I thought the best approach was to create one.  
+The first compiler is made in Rust but the real goal is to be able to make it in QuantixScript. For now, I aim to develop QuantixScript into an object-oriented programming language.  
+It’s a fun challenge because it requires me to learn Rust and Assembly, as well as understand and replicate how programming languages work.  
 *[Repository](https://github.com/QuantixWorld/QuantixScript)*
 
 ### Time Calculator
 Calculates when you can get back home after work and a small converter of hours to days.  
-I've initially made this project in C# in a desktop app but chose to rework it in a web app in ScalaJS.  
+I initially developed this project as a desktop application in C# but later reworked it as a web app using ScalaJS.  
 *[Repository](https://github.com/zcBruAll/TimeCalculator) - [WebApp](https://allanbrunner.dev/projects/TimeCalculator)*
 
 ## Tech Stack
