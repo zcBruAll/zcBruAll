@@ -3,6 +3,12 @@
 ## Projects
 You can find most of my projects under my profile and the QuantixWorld organization.
 
+### ISCRacer
+For the final project for the object-oriented programming course, we had to make a game using the GDX2D library (lib built on top of libGDX).  
+We went for an online multiplayer racing game in pseudo-3D. I personally wanted more challenge than "just" make a 2D game so I learned about Mode7.
+After having made a LAN multiplayer game ([BomberGrid](https://github.com/zcBruAll/BomberGrid)), I wanted to do a real online multiplayer mode.  
+*[Client repository](https://github.com/zcBruAll/ISCRacer)* - *[Server repository](https://github.com/zcBruAll/ISCRacer-Server)*
+
 ### BomberGrid
 During one of my BSc courses, my colleague and I were required to create a grid-based game using a provided Scala library.  
 My colleague and I decided to create a Bomberman-like game. We further enhanced it by making it playable over LAN and by implementing a small algorithm to simulate light obstruction.  
@@ -31,10 +37,10 @@ I initially developed this project as a desktop application in C# but later rewo
     <td align="top" width="50%">
       <h3 align="center">Backend </h3>
       <div align="center">  
+        <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="75" /></a>  
         <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
         <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="75" /></a>  
-        <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="75" /></a>  
         <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="75" /></a>  
         <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
         <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
